@@ -1,0 +1,1 @@
+[{"content": [{"openport": "445"}, {"openport": "135"}, {"openport": "1536"}, {"openport": "1543"}, {"openport": "1550"}, {"openport": "1537"}, {"openport": "1538"}, {"openport": "1539"}, {"openport": "1540"}], "ways": "Portscan"}]
